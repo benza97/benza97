@@ -10,7 +10,7 @@
  
  
    
-** ` Studying  `**
+ `  Studying   `
    
   <img src="https://img.shields.io/badge/Python-5D5D5D?style=for-the-badge&logo=Python&logoColor=white">
   
