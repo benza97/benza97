@@ -16,6 +16,7 @@
   
   <img src="https://img.shields.io/badge/Git-5D5D5D?style=for-the-badge&logo=Git&logoColor=white">
  
+  <img src="https://img.shields.io/badge/VisualStudioCode-5D5D5D?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   
   
   
