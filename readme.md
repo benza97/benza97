@@ -26,7 +26,7 @@
 
 
 [![Solved.ac
-benza97](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+benza97](http://mazassumnida.wtf/api/generate_badge?boj={benza97})](https://solved.ac/{handle})
 
 
 
