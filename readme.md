@@ -4,7 +4,7 @@
   
   
   
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=hexcode&height=300&section=header&text=Junyoung%20Git%Hub!&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=hexcode&height=300&section=header&text=Junyoung%20Git%Hub!&fontSize=70)
   
   
   
